@@ -16,6 +16,7 @@ apps, from REST APIs and databases to the screens people use.
 
 | Project | What it is | Stack |
 |---|---|---|
+| [Deuce Card Room](https://github.com/Cody-Ayers/deuce-card-room) ([play](https://cody-ayers.github.io/deuce-card-room/)) | Installable casino app: Blackjack with a strategy coach, Texas Hold'em against bots, Craps with a learn mode | JavaScript, HTML, CSS, PWA, Web Audio |
 | [The Recipe Hub](https://github.com/Cody-Ayers/Recipe-app) | Full-stack recipe manager with charts | Python, Django, PostgreSQL, Pandas |
 | [QuickChat](https://github.com/Cody-Ayers/messenger-app) | Mobile chat with photos, location and voice messages | React Native, Expo, Firebase |
 | [Cody's Flix API](https://github.com/Cody-Ayers/movie_api) | REST API with JWT auth | Node.js, Express, MongoDB |
