@@ -9,7 +9,7 @@ apps, from REST APIs and databases to the screens people use.
 
 ## What I'm building
 
-- **Club Games:** a mobile-first app for golf money games, with custom formats, live standings and automatic payouts (Next.js, TypeScript, Supabase)
+- **Club Games:** a mobile-first app for golf money games, with custom formats, live standings and automatic payouts, used weekly by my golf group (Next.js, TypeScript, Supabase)
 - **[Lineup Lab](https://github.com/Cody-Ayers/fantasy-analyzer):** an ESPN fantasy football analyzer for best lineups, waiver pickups, trades and playoff odds
 
 ## Featured projects
