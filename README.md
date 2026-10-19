@@ -9,6 +9,8 @@ apps, from REST APIs and databases to the screens people use.
 
 ## What I'm building
 
+These are my designs, built with AI-assisted development using Claude Code: I set the features and rules, test with real users and direct each change.
+
 - **Club Games:** a mobile-first app for golf money games, with custom formats, live standings and automatic payouts, used weekly by my golf group (Next.js, TypeScript, Supabase)
 - **[Lineup Lab](https://github.com/Cody-Ayers/fantasy-analyzer):** an ESPN fantasy football analyzer for best lineups, waiver pickups, trades and playoff odds
 
@@ -17,7 +19,7 @@ apps, from REST APIs and databases to the screens people use.
 | Project | What it is | Stack |
 |---|---|---|
 | [Deuce Card Room](https://github.com/Cody-Ayers/deuce-card-room) ([play](https://cody-ayers.github.io/deuce-card-room/)) | Installable casino app: Blackjack with a strategy coach, Texas Hold'em against bots, Craps with a learn mode | JavaScript, HTML, CSS, PWA, Web Audio |
-| [Deuce Card Room](https://github.com/Cody-Ayers/deuce-card-room) | Installable casino game app with a blackjack strategy coach, AI poker players and live tables | JavaScript, PWA, Supabase |
+| [Deuce Card Room](https://github.com/Cody-Ayers/deuce-card-room) | Installable casino game app with a blackjack strategy coach, AI poker players and live tables (built with Claude Code) | JavaScript, PWA, Supabase |
 | [The Recipe Hub](https://github.com/Cody-Ayers/Recipe-app) | Full-stack recipe manager with charts | Python, Django, PostgreSQL, Pandas |
 | [QuickChat](https://github.com/Cody-Ayers/messenger-app) | Mobile chat with photos, location and voice messages | React Native, Expo, Firebase |
 | [Cody's Flix API](https://github.com/Cody-Ayers/movie_api) | REST API with JWT auth | Node.js, Express, MongoDB |
@@ -32,4 +34,4 @@ apps, from REST APIs and databases to the screens people use.
 **Front end:** React, Next.js, React Native, Angular, Tailwind CSS
 **Back end:** Node.js, Express, Django, REST APIs, JWT
 **Data:** PostgreSQL, Supabase, MongoDB, Firebase, Pandas
-**Tools:** Git, GitHub Actions, Jest, Vitest, Postman, Heroku, Vercel, Netlify
+**Tools:** Claude Code, Git, GitHub Actions, Jest, Vitest, Postman, Heroku, Vercel, Netlify
